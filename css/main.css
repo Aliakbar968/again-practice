@@ -3,3 +3,9 @@
     list-style: none;
 justify-content: space-between;
 }
+
+.header__li{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
